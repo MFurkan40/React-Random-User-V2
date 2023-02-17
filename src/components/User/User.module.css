@@ -1,0 +1,30 @@
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 25px;
+}
+.icons img {
+  height: 40px;
+  width: 40px;
+}
+.icons img:hover {
+  cursor: pointer;
+}
+
+.btn {
+  background: rgb(9, 117, 45);
+  color: #fff;
+  font-size: 1.3rem;
+  padding: 10px 30px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  margin-left: 10px;
+}
+.img {
+  border-radius: 50%;
+}
+.displayer {
+  height: 100px;
+}
